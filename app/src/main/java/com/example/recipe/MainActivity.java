@@ -14,14 +14,14 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_login_page);
 
         // Find the NavController and BottomNavigationView
-        NavHostFragment navHostFragment = (NavHostFragment) getSupportFragmentManager().findFragmentById(R.id.fragmentContainerView3);
+       /* NavHostFragment navHostFragment = (NavHostFragment) getSupportFragmentManager().findFragmentById(R.id.fragmentContainerView3);
         NavController navController = navHostFragment.getNavController();
         BottomNavigationView bottomNav = findViewById(R.id.bottomNavigationView);
 
         // Setup BottomNavigationView with NavController
-        NavigationUI.setupWithNavController(bottomNav, navController);
+        NavigationUI.setupWithNavController(bottomNav, navController);*/
     }
 }
