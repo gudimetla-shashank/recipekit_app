@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">recipe</string>
+    <string name="recipe_kittext">recipekit</string>
+    <string name="second_text">Buy your favorite recipe ingredients in a single click</string>
+    <string name="scroll_down">Scroll down for more</string>
+    <string name="make_your_recipe_easier">make your recipe easier</string>
+    <string name="login_text">login for better experience</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Add">Add</string>
+    "
+</resources>
